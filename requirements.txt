@@ -1,0 +1,6 @@
+streamlit>=1.40
+openai-agents[voice]
+numpy
+soundfile
+scipy
+python-dotenv
